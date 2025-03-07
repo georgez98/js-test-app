@@ -20,7 +20,7 @@ jobs:
               env:
                 PORTER_APP_NAME: js-test-app
                 PORTER_CLUSTER: "1"
-                PORTER_DEPLOYMENT_TARGET_ID: 70be6f43-6603-4cea-ac86-85f1d509f065
+                PORTER_DEPLOYMENT_TARGET_ID: 58c6fa16-c25a-45ef-bd88-4c2f6cfc3c08
                 PORTER_HOST: https://georgez98.withporter.run
                 PORTER_PR_NUMBER: ${{ github.event.number }}
                 PORTER_PROJECT: "1"
